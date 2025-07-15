@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Sean V. Mafnas 
+# Hi there! 👋 I'm Sean V. Mafnas [SVM DEV]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front+End+Web+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=HÅFA+ADAI!;Welcome+to+my+GitHub!;Front+End+Web+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
