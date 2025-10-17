@@ -125,7 +125,7 @@ Another cool project description. Highlight the impact and technical challenges 
 ## 🎮 When I'm Not Coding
 
 - 🎵 **Music:** Love discovering new artists and playing guitar
-- 📚 **Reading:** Currently reading "The Biology of Belief" by Bruce Lipton
+- 📚 **Reading:** Currently reading NIV Bible
 - 🏃‍♂️ **Fitness:** Gym and hiking enthusiast
 - 🎮 **Gaming:** Strategy games and RPGs
 - ☕ **Coffee:** YES, Please! Sugar-free, though.
